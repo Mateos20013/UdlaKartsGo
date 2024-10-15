@@ -1981,7 +1981,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: BACK
+  m_Text: "ATR\xC1S"
 --- !u!222 &124982293
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13987,7 +13987,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Join Session
+  m_Text: "UNIRSE A LA SESI\xD3N"
 --- !u!222 &810235531
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20239,7 +20239,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CONFIRM
+  m_Text: CONFIRMAR
 --- !u!222 &1059692281
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21005,7 +21005,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Room Name
+  m_Text: "Nombre de la Habitaci\xF3n"
 --- !u!1 &1109473471
 GameObject:
   m_ObjectHideFlags: 0
@@ -38891,7 +38891,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Create Session
+  m_Text: "Crear Sesi\xF3n"
 --- !u!222 &2122184233
 CanvasRenderer:
   m_ObjectHideFlags: 0
