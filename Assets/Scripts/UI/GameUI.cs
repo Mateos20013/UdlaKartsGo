@@ -264,7 +264,7 @@ public class GameUI : MonoBehaviour
 		{
 			x += Time.deltaTime;
 
-			itemAnimator.speed = (spd - 1) / (dur * dur) * (x - dur) * (x - dur) + 1;
+			itemAnimator.speed = (spd - 1) / (dur * dur) * (x - dur)*(x - dur) + 1;
 			yield return null;
 		}
 
