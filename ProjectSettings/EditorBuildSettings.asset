@@ -17,4 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Track02.unity
     guid: 63f70b178e9211d47ad7b6c8c10fe304
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 2da6d1b5b6b1db04a9202da4e8e98eda, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9d55eb26e1d1e884893e88eafa33e893, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 044c77d420717444f955c743c4da56d6, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9e47b98973afcf54693a872c9201e0e9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fe774bdcbf5461245ae442a280ee7eb4, type: 2}
